@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Register_Login_JwtIdentity.props" />
+</Project>
